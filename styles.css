@@ -37,3 +37,8 @@ body {
     font-style: normal !important;
     /*background-color: white!important;*/
 }
+
+.cover {
+    background-image: url('images/landscapebh.png') ;
+    background-size: cover;
+}
