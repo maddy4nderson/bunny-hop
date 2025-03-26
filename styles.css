@@ -73,3 +73,7 @@ main {
     font-size: 100px !important;
     color:#F8F4B2 !important;
 }
+
+.row {
+    padding:10px;
+}
