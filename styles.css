@@ -42,3 +42,7 @@ body {
     background-image: url('images/landscapebh.png') ;
     background-size: cover;
 }
+
+p {
+    text-shadow: 6px 6px 6px black !important;
+}
