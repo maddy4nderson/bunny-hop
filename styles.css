@@ -66,3 +66,10 @@ main {
     padding:10px;
 }
 
+.text1 {
+    font-family: "neue-haas-grotesk-display", sans-serif !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    font-size: 100px !important;
+    color:#F8F4B2 !important;
+}
