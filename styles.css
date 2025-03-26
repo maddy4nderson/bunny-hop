@@ -43,7 +43,7 @@ body {
     background-size: cover;
 }
 
-p {
+.coverp {
     text-shadow: 6px 6px 6px black !important;
 }
 
