@@ -64,6 +64,8 @@ h1 {
 
 main {
     padding:10px;
+    background-image: url(images/background-02.png);
+    background-size: cover;
 }
 
 .text1 {
@@ -71,7 +73,8 @@ main {
     font-weight: 600 !important;
     font-style: normal !important;
     font-size: 100px !important;
-    color:#F8F4B2 !important;
+    color: white !important;
+    text-shadow: 2px 2px 4px #40E0D0 ;
 }
 
 .row {
