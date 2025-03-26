@@ -47,3 +47,8 @@ p {
     text-shadow: 6px 6px 6px black !important;
 }
 
+.textfooter {
+    color: white !important;
+    text-shadow: none !important;
+}
+
