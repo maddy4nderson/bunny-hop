@@ -18,18 +18,6 @@ button:hover {
 color: white !important;
 }
 
-.me {
-    display: flex;
-    position: relative;
-    text-align: center;
-    color:#f8fbfb;   
-    font-size: 18px;
-    margin: auto;
-    padding: 13% 0;
-    width: 60%;
-    height: 100%;
-    flex-direction: column;
-}
 
 body {
     font-family: "neue-haas-grotesk-display", sans-serif !important;
@@ -44,7 +32,7 @@ body {
 }
 
 .coverp {
-    text-shadow: 6px 6px 6px black !important;
+    text-shadow: 2px 2px 4px #40E0D0 !important;
 }
 
 .textfooter {
