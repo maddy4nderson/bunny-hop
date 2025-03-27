@@ -50,7 +50,7 @@ h1 {
     border-radius:4px;
 }
 
-main {
+.aboutus {
     padding:10px;
     background-image: url(images/background-02.png);
     background-size: cover;
@@ -66,4 +66,10 @@ main {
 
 .row {
     padding:10px;
+}
+
+.ourbikes {
+    padding:10px;
+    background-image: url(images/background-03-01.png);
+    background-size: cover;
 }
