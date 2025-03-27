@@ -46,6 +46,12 @@ h1 {
     font-style: normal !important;
 }
 
+h3 {
+    font-family: "neue-haas-grotesk-display", sans-serif !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+}
+
 .imgmargin {
     border-radius:4px;
 }
