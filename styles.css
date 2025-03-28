@@ -29,6 +29,7 @@ body {
 .cover {
     background-image: url('images/landscapebh.png') ;
     background-size: cover;
+    background-position: right;
 }
 
 .coverp {
