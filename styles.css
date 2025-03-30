@@ -76,6 +76,10 @@ h3 {
     padding: 30px;
 }
 
+.text3 {
+    text-align: left;
+}
+
 .row {
     padding:10px;
 }
@@ -91,5 +95,5 @@ h3 {
 }
 
 .sectiontwo {
-    background-color: #F8F4B2;
+    background-color: #FDFBD4;
 }
