@@ -101,6 +101,7 @@ h3 {
     background-image: url(images/background-03-01.png);
     background-size: cover;
 }
+
 .bikeicon {
     background: none !important;
     color: black !important;
@@ -108,4 +109,7 @@ h3 {
 
 .sectiontwo {
     background-color: #FDFBD4;
+    
 }
+
+
