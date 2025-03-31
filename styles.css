@@ -119,4 +119,21 @@ h3 {
 
 #map {
    height: 400px;
+   width: 400px;
+   justify-content: right;
+   margin-left: 15px;
+}
+
+.title {
+    font-family: "neue-haas-grotesk-display", sans-serif !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    font-size: 60px !important;
+    color: black !important;
+    text-align: center;
+}
+
+.locate {
+   background-image: url(images/background_locate-01.png);
+   background-size: cover;
 }
