@@ -92,6 +92,11 @@ h3 {
     font-size: 20px;
 }
 
+.text6 {
+    text-align: right;
+    font-size: 24px;
+}
+
 .row {
     padding:10px;
 }
