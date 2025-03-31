@@ -23,6 +23,7 @@ body {
     font-family: "neue-haas-grotesk-display", sans-serif !important;
     font-weight: 400 !important;
     font-style: normal !important;
+    margin: 0;
 }
 
 .cover {
@@ -78,7 +79,7 @@ h3 {
 
 .text3 {
     text-align: left;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .text4 {
@@ -94,7 +95,7 @@ h3 {
 
 .text6 {
     text-align: right;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .row {
@@ -102,7 +103,7 @@ h3 {
 }
 
 .ourbikes {
-    padding:10px;
+    padding:10px 0;
     background-image: url(images/background-03-01.png);
     background-size: cover;
 }
@@ -114,7 +115,6 @@ h3 {
 
 .sectiontwo {
     background-color: #FDFBD4;
-    opacity: 90%;
 }
 
 
