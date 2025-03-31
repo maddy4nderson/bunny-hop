@@ -135,3 +135,7 @@ h3 {
    background-image: url(images/background_locate-01.png);
    background-size: cover;
 }
+
+.black {
+    color: black;
+}
