@@ -121,6 +121,8 @@ h3 {
 #map {
    height: 400px;
    margin-left: 15px;
+   border: 20px;
+   border-radius: 20px;
 }
 
 .title {
@@ -133,8 +135,18 @@ h3 {
     padding: 15px;
 }
 
+.title2 {
+    font-family: "utopia-std", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px !important;
+    color: black !important;
+    text-align: right;
+    padding: 15px;
+}
+
 .locate {
-   background-image: url();
+   background-image: url(images/background_locate-01-01.png);
    background-size: cover;
 }
 
