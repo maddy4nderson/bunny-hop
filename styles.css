@@ -61,7 +61,7 @@ h3 {
     background-size: cover;
 }
 
-.text1 {
+.textourbikes {
     font-family: "utopia-std-headline", serif;
     font-weight: 400;
     font-style: normal;
@@ -72,14 +72,12 @@ h3 {
     text-shadow: 70px 35px #FDFBD4;
 }
 
-.numbers {
+.text1 {
     font-family: "utopia-std-headline", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 100px !important;
     color: black !important;
-    
-
 }
 
 .text2 {
