@@ -78,6 +78,17 @@ body {
     text-shadow: 70px 35px #F8F4B2;
 }
 
+.textlocations {
+    font-family: "utopia-std-headline", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px !important;
+    color: #FDFBD4 !important;
+    text-align: left;
+    padding: 40px;
+    text-shadow: 70px 35px #F8F4B2;
+}
+
 .text1 {
     font-family: "utopia-std-headline", serif;
     font-weight: 400;
@@ -142,6 +153,7 @@ body {
    margin-left: 15px;
    border: 20px;
    border-radius: 20px;
+   align-items: right;
 }
 
 .title {
@@ -181,4 +193,11 @@ body {
 .side {
     padding: 0px !important;
     margin: 0px !important;
+}
+
+.signintext {
+    font-family: "utopia-std", serif !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+
 }
