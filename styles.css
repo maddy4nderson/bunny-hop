@@ -32,9 +32,6 @@ body {
     background-position: right;
 }
 
-.coverp {
-    text-shadow: 2px 2px 4px black !important;
-}
 
 .textfooter {
     color: white !important;
@@ -49,9 +46,9 @@ body {
 }
 
 h3 {
-    font-family: "neue-haas-grotesk-display", sans-serif !important;
-    font-weight: 600 !important;
-    font-style: normal !important;
+    font-family: "utopia-std-headline", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .imgmargin {
@@ -84,6 +81,9 @@ h3 {
 }
 
 .text4 {
+    font-family: "utopia-std-headline", serif;
+    font-weight: 400;
+    font-style: normal;
     text-align: center;
     font-size: 55px;
     padding: 30px;
