@@ -12,6 +12,7 @@ button {
     background: #40E0D0 !important;
     color: white !important;
     border-radius: 20px !important;
+    text-align: center !important;
 }
 
 button:hover {
@@ -43,12 +44,17 @@ body {
     font-weight: 400;
     font-style: normal;
     font-size: 80px;
+    color: #F8F4B2 !important;
+    text-align: center;
+    padding: 40px;
+    text-shadow: 2px 2px #FDFBD4;
 }
 
-h3 {
+.h3text {
     font-family: "utopia-std-headline", serif;
     font-weight: 400;
     font-style: normal;
+    color:#40E0D0 !important;
 }
 
 .imgmargin {
@@ -88,7 +94,7 @@ h3 {
 
 .text3 {
     text-align: left;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .text4 {
