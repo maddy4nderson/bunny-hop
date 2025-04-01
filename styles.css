@@ -156,5 +156,10 @@ h3 {
 
 .bikemockup {
     background-color: #b0f2eb;
-    align-items: center;
+    
+}
+
+.side {
+    padding: 0px !important;
+    margin: 0px !important;
 }
