@@ -71,18 +71,22 @@ body {
     font-family: "utopia-std-headline", serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 150px !important;
+    font-size: 130px !important;
     color: #FDFBD4 !important;
     text-align: right;
     padding: 40px;
     text-shadow: 70px 35px #F8F4B2;
 }
 
+.select {
+    margin: 15px 15px 15px;
+}
+
 .textlocations {
     font-family: "utopia-std-headline", serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 150px !important;
+    font-size: 20vw !important;
     color: #FDFBD4 !important;
     text-align: left;
     padding: 20px;
